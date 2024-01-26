@@ -1,5 +1,5 @@
 <h1 align="center">
- Tela de Login </h1>
+:iphone: Tela de Login :computer:</h1>
 <br>
 Esse foi um projeto que eu desenvolvi dentro da plataforma <a href="https://rodolfomori.com.br/devclub">DevClub</a>.
 
